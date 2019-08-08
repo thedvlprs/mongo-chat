@@ -1,0 +1,16 @@
+{
+  "name": "mongo-chat",
+  "version": "1.0.0",
+  "description": "Simple chat app using sockets",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "fyunka",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^2.2.36",
+    "socket.io": "^2.2.0"
+  }
+}
