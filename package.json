@@ -11,6 +11,6 @@
   "license": "ISC",
   "dependencies": {
     "mongodb": "^3.7.4",
-    "socket.io": "^4.7.5"
+    "socket.io": "^4.8.0"
   }
 }
